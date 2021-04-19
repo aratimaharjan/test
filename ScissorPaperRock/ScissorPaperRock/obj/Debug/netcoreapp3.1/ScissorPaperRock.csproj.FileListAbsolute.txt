@@ -1,0 +1,12 @@
+D:\git\test\ScissorPaperRock\ScissorPaperRock\bin\Debug\netcoreapp3.1\ScissorPaperRock.exe
+D:\git\test\ScissorPaperRock\ScissorPaperRock\bin\Debug\netcoreapp3.1\ScissorPaperRock.deps.json
+D:\git\test\ScissorPaperRock\ScissorPaperRock\bin\Debug\netcoreapp3.1\ScissorPaperRock.runtimeconfig.json
+D:\git\test\ScissorPaperRock\ScissorPaperRock\bin\Debug\netcoreapp3.1\ScissorPaperRock.runtimeconfig.dev.json
+D:\git\test\ScissorPaperRock\ScissorPaperRock\bin\Debug\netcoreapp3.1\ScissorPaperRock.dll
+D:\git\test\ScissorPaperRock\ScissorPaperRock\bin\Debug\netcoreapp3.1\ScissorPaperRock.pdb
+D:\git\test\ScissorPaperRock\ScissorPaperRock\obj\Debug\netcoreapp3.1\ScissorPaperRock.AssemblyInfoInputs.cache
+D:\git\test\ScissorPaperRock\ScissorPaperRock\obj\Debug\netcoreapp3.1\ScissorPaperRock.AssemblyInfo.cs
+D:\git\test\ScissorPaperRock\ScissorPaperRock\obj\Debug\netcoreapp3.1\ScissorPaperRock.csproj.CoreCompileInputs.cache
+D:\git\test\ScissorPaperRock\ScissorPaperRock\obj\Debug\netcoreapp3.1\ScissorPaperRock.dll
+D:\git\test\ScissorPaperRock\ScissorPaperRock\obj\Debug\netcoreapp3.1\ScissorPaperRock.pdb
+D:\git\test\ScissorPaperRock\ScissorPaperRock\obj\Debug\netcoreapp3.1\ScissorPaperRock.genruntimeconfig.cache
